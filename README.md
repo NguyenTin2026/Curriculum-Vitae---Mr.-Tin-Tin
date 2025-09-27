@@ -11,7 +11,7 @@
 ## 🚀 Skills
 - **Programming & Data Science**: Python, R, Java, C++, TypeScript, JavaScript, SQL (PostgreSQL)  
 - **Libraries & Tools**: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly  
-- **Data Visualization & BI**: Tableau, Power BI  
+- **Data Visualization**: Plotly, Tableau, Power BI  
 - **Version Control**: Git, GitHub, GitLab, Bitbucket  
 - **Other Tools**: Jupyter Notebook, VS Code, Anaconda, Postman  
 
@@ -51,4 +51,4 @@
 
 ---
 
-📫 **Contact**: [Email](mailto:ndo1@drew.edu) | [LinkedIn](https://linkedin.com/in/nguyen-tin-tin-do) | [GitHub](https://github.com/NguyenTin)
+📫 **Contact**: [Email](mailto:tintindo123321gmail.com) | [LinkedIn](https://linkedin.com/in/nguyen-tin-tin-do) | [GitHub]([https://github.com/NguyenTin](https://github.com/NguyenTin2026))
